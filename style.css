@@ -1,0 +1,46 @@
+body {
+    background: maroon;
+}
+
+.jumbotron {
+    position: absolute;
+    background: black;
+    color: white;
+    top: 100px;
+    height: 500px;
+    width: 1110px;
+}
+
+img {
+    position: relative;
+    height: 270px;
+    width: 220px;
+    top: 150px;
+    left: 30px;
+}
+
+p {
+    float: right;
+    color: white;
+    width: 800px;
+    font-size: 20px;
+}
+
+footer {
+    background: black;
+    height: 50px;
+    margin-top: 363px;
+    text-align: center;
+}
+
+h2 {
+    background: maroon;
+    color: white; 
+    font-size: 28px;
+}
+
+h3 {
+    background: white;
+    color: maroon;
+    padding: 28px;
+}
