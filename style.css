@@ -44,3 +44,30 @@ h3 {
     color: maroon;
     padding: 28px;
 }
+
+input {
+    width: 800px;
+}
+
+h4 {
+    background: black;
+    color: maroon;
+    height: 50px;
+    width: 85px;
+    
+}
+
+#likes {
+    width: 520px;
+    height: 320px;
+    
+    padding: 5px;
+}
+
+#about {
+    background: black;
+    color: maroon;
+    height: 50px;
+    width: 90px;
+    font-size: 25px;
+}
