@@ -73,11 +73,17 @@ h5 {
    
 h2 {
     font-Size: 200px;
-    margin-left: 0 auto 0 auto;
+    background: darkred;
+    color: white;
+    width: 400px;
+    padding-top: 20px;
+    padding-left: 3px;
+    margin-left: 100px;
 
 }
 
 #info {
+    color: darkred;
     margin-top: 400px;
     width: 300px;
     margin-left: 100px;
@@ -87,7 +93,8 @@ h2 {
 section {
     margin-top: 50px;
     margin-left: 100px;
-    background-color: darkred;
+    background-color: #eeee;
+   color: darkred;
     width: 500px;
     height: 500px;
     padding: 20px;
@@ -95,6 +102,13 @@ section {
 
 input {
     width: 445px;
+}
+
+h1 {
+    background: #eeee;
+    color: #eeee;
+    width: 280px;
+
 }
 
 }
