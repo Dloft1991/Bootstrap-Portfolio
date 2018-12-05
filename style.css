@@ -47,6 +47,7 @@ footer {
     text-align: center;
     background: darkred;
     height: 25px;
+    color: #eeee;
 }
 
 section {
@@ -56,6 +57,12 @@ section {
     width: 1100px;
     height: 500px;
     padding: 20px;
+}
+#photo {
+    width: 400px;
+    height: 250px;
+    padding-top: 20px;
+    
 }
 
 input {
@@ -108,7 +115,18 @@ h1 {
     background: #eeee;
     color: #eeee;
     width: 280px;
+}
 
+#photo {
+    width: 400px;
+    height: 250px;
+    padding: 20px;  
+    border-color: darkred;
+    border-radius: 50px;
+}
+
+h5 {
+    font-size: 100px;
 }
 
 }
