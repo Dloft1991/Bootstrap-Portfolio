@@ -10,7 +10,7 @@ img {
 
 footer {
     width: 100%;
-    background: darkred;
+    background: rgb(38, 112, 197);
     height: 30px;
     text-align: center;
 }
@@ -20,3 +20,4 @@ footer {
     height: 20%;
     padding: 1%;
 }
+
